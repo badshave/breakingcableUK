@@ -1,0 +1,802 @@
+#EXTINF:-1 timeshift="2" xui-id="2484978" tvg-id="4Music.uk" tvg-name="4Music SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-music-uk.png" group-title="UK ENTERTAINMENT",4Music SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmN45U2BwGEFo2FuhWBvA90u
+#EXTINF:-1 timeshift="2" xui-id="2484225" tvg-id="4seven.uk" tvg-name="4Seven SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-seven-uk.png" group-title="UK ENTERTAINMENT",4Seven SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHZg_F84l1GVEk7G0KTxkhR
+#EXTINF:-1 timeshift="2" xui-id="2484226" tvg-id="5SELECT.uk" tvg-name="5 Select SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-select-uk.png" group-title="UK ENTERTAINMENT",5 Select SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHWdghecAKoriwHTMV5ATc1
+#EXTINF:-1 timeshift="2" xui-id="2484308" tvg-id="5STAR+1.uk" tvg-name="5 Star +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-star-plus-uk.png" group-title="UK ENTERTAINMENT",5 Star +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8cZCXEQG4Y664zzFU8juQ2
+#EXTINF:-1 timeshift="2" xui-id="2484227" tvg-id="5STAR.uk" tvg-name="5 Star SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-star-uk.png" group-title="UK ENTERTAINMENT",5 Star SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGKncR8XZpjYt7V3W3UZb-l
+#EXTINF:-1 timeshift="2" xui-id="2484309" tvg-id="5USA+1.uk" tvg-name="5 USA +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-usa-plus-uk.png" group-title="UK ENTERTAINMENT",5 USA +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_gVW97vwEHo7TZTD97gGRi
+#EXTINF:-1 timeshift="2" xui-id="2484228" tvg-id="5USA.uk" tvg-name="5 USA SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-usa-uk.png" group-title="UK ENTERTAINMENT",5 USA SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE_OGTN_nYhDfinLn6pPNME
+#EXTINF:-1 xui-id="2485172" tvg-id="92News.uk" tvg-name="92 News (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",92 News (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI6B6WvgK50j-M8X27Nb0Tu
+#EXTINF:-1 xui-id="2485187" tvg-id="AAJTAK.uk" tvg-name="AAJ TAK (Indian)" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="UK INTERNATIONAL",AAJ TAK (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJSUfi4RZsawyFBf1X-tdeJ
+#EXTINF:-1 xui-id="2485149" tvg-id="" tvg-name="Abu Dhabi TV" tvg-logo="https://static.epg.best/ae/AbuDhabi.ae.png" group-title="UK INTERNATIONAL",Abu Dhabi TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI9Shgl9VEutZkdgfvl9ZMV
+#EXTINF:-1 xui-id="2485191" tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",Akaal Channel (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIpsQi9UW2yYQJbajAaWdx6
+#EXTINF:-1 timeshift="2" xui-id="2484936" tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/aljazeera-uk.png" group-title="UK NEWS",Al Jazeera English FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmML4yUtbm7-TlPrZrxRfaoi
+#EXTINF:-1 timeshift="2" xui-id="2484935" tvg-id="" tvg-name="Al Jazeera English SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/aljazeera-uk.png" group-title="UK NEWS",Al Jazeera English SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOspSNuGvoAuIUjQd1gAbM1
+#EXTINF:-1 timeshift="2" xui-id="2484310" tvg-id="Alibi+1.uk" tvg-name="alibi +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/alibi-plus-uk.png" group-title="UK ENTERTAINMENT",alibi +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-IwZoEnnRAbIBXj8XlKY0u
+#EXTINF:-1 timeshift="2" xui-id="2484336" tvg-id="Alibi.uk" tvg-name="Alibi HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/alibi-uk.png" group-title="UK ENTERTAINMENT",Alibi HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO84wubL2U8jvfZvo09xfd4z
+#EXTINF:-1 timeshift="2" xui-id="2484229" tvg-id="Alibi.uk" tvg-name="Alibi SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/alibi-uk.png" group-title="UK ENTERTAINMENT",Alibi SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGYWVAetjruApMUoNUYyE8u
+#EXTINF:-1 timeshift="2" xui-id="2484365" tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/animal-planet-uk.png" group-title="UK DOCUMENTARIES",Animal Planet
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-cknaRthnV95pI558rii5q
+#EXTINF:-1 timeshift="2" xui-id="2484379" tvg-id="AnimalPlanet+1.uk" tvg-name="Animal Planet +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/animal-planet-plus-uk.png" group-title="UK DOCUMENTARIES",Animal Planet +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO920hpTiATTf23SKYDfOYGM
+#EXTINF:-1 xui-id="2485165" tvg-id="" tvg-name="ARY Family (Indian)" tvg-logo="https://static.epg.best/pk/ARYFamily.pk.png" group-title="UK INTERNATIONAL",ARY Family (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIZ4FsXzwhUEx5G_3fjET7a
+#EXTINF:-1 xui-id="2485190" tvg-id="B4UMovies.uk" tvg-name="B4U MOVIES (Indian)" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="UK INTERNATIONAL",B4U MOVIES (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLRauGRNixxrv41wrvPmBl_
+#EXTINF:-1 xui-id="2485189" tvg-id="B4UMusic.uk" tvg-name="B4U MUSIC (Indian)" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="UK INTERNATIONAL",B4U MUSIC (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLMcDnoptHAfWcuaXTZK-Wx
+#EXTINF:-1 timeshift="2" xui-id="2484952" tvg-id="BabyTV.uk" tvg-name="Baby TV SD" tvg-logo="https://static.epg.best/uk/BabyTV.uk.png" group-title="UK KIDS",Baby TV SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmP4Xjk_UQzn6-rY0DZdkpRh
+#EXTINF:-1 xui-id="2455997" tvg-id="BBCAlba.uk" tvg-name="BBC ALBA Glasgow" tvg-logo="https://static.epg.best/uk/BBCAlba.uk.png" group-title="UK REGIONALS",BBC ALBA Glasgow
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvT_pVbeDNoH8KIDK4CqP8I3
+#EXTINF:-1 timeshift="2" xui-id="3329032" tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="http://fanc.tmsimg.com/assets/s83282_ll_h3_ac.png" group-title="UK ENTERTAINMENT",BBC Four
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gEXh48lcdyxAi9YbS9PEZGUDDb1Vrd9S4WmDP2zLK5r
+#EXTINF:-1 timeshift="2" xui-id="2484938" tvg-id="BBCNewsChannel.uk" tvg-name="BBC News FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-news-hz-white-uk.png" group-title="UK NEWS",BBC News FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO4aiztfviyAt2S-lgAQNo3
+#EXTINF:-1 timeshift="2" xui-id="2484937" tvg-id="" tvg-name="BBC News SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-news-hz-white-uk.png" group-title="UK NEWS",BBC News SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO8sfjOT64O1pJdLW2_KDVg
+#EXTINF:-1 xui-id="2484232" tvg-id="BBCOneLondon.uk" tvg-name="BBC One SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK ENTERTAINMENT",BBC One SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFhVMwEZpnLdg1UvGjf8Xx8
+#EXTINF:-1 xui-id="2455999" tvg-id="BBCOneChannelIslands.uk" tvg-name="BBC One Channel Islands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UK REGIONALS",BBC One Channel Islands
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRube2tcnUczGqdOcrssFG6
+#EXTINF:-1 xui-id="2456000" tvg-id="BBCOneEast.uk" tvg-name="BBC One East East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UK REGIONALS",BBC One East East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNkmvb1_5JkMhV-ZMD6R8MN
+#EXTINF:-1 xui-id="2456001" tvg-id="BBCOneEastMidlands.uk" tvg-name="BBC One East Midlands" tvg-logo="https://static.epg.best/uk/BBCOneEastMidland.uk.png" group-title="UK REGIONALS",BBC One East Midlands
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvPzXVdRn-fh7W4u1h5FVjka
+#EXTINF:-1 xui-id="2456002" tvg-id="" tvg-name="BBC One East West" tvg-logo="https://static.epg.best/uk/BBCOneNorthWest.uk.png" group-title="UK REGIONALS",BBC One East West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOAzp0jpO0sQWnKQti6jGaU
+#EXTINF:-1 xui-id="2456003" tvg-id="BBCOneYorkshireAndLincolnshire.uk" tvg-name="BBC One East Yorkshire & Lincolnshire" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BBC_One_%282021%29.svg/revision/latest/scale-to-width-down/200?cb=20211020052725" group-title="UK REGIONALS",BBC One East Yorkshire & Lincolnshire
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOcY5-b7pRMMKrii_lD0zf9
+#EXTINF:-1 timeshift="2" xui-id="2484233" tvg-id="BBCOne.uk" tvg-name="BBC One FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK ENTERTAINMENT",BBC One FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFQk3cp3iKeYB1221SNcJbm
+#EXTINF:-1 xui-id="2456004" tvg-id="BBCOneLondon.uk" tvg-name="BBC One London" tvg-logo="https://static.epg.best/nl/BBCOne.nl.png" group-title="UK REGIONALS",BBC One London
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvPpQU9EVAufQ21Oyj67cuBk
+#EXTINF:-1 xui-id="2456005" tvg-id="BBCOneNorthEastAndCumbria.uk" tvg-name="BBC One North East & Cumbria" tvg-logo="https://static.epg.best/uk/BBCOneNorthWest.uk.png" group-title="UK REGIONALS",BBC One North East & Cumbria
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvMuSGal1V2sQtjGEsWMug0i
+#EXTINF:-1 xui-id="2456006" tvg-id="BBCOneNorthWest.uk" tvg-name="BBC One North West" tvg-logo="https://static.epg.best/uk/BBCOneNorthWest.uk.png" group-title="UK REGIONALS",BBC One North West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNOsZdGsuJx0QR4KX2sFSsF
+#EXTINF:-1 xui-id="2456007" tvg-id="BBCOneNorthernIreland.uk" tvg-name="BBC One Northern Ireland" tvg-logo="https://static.epg.best/uk/BBCOneNorthernIreland.uk.png" group-title="UK REGIONALS",BBC One Northern Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOR1ZP78ZiK3ZwNBgw0fSpx
+#EXTINF:-1 timeshift="2" xui-id="2485141" tvg-id="BBCOneNorthernIreland.uk" tvg-name="BBC One Northern Ireland HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-one-northern-ireland-uk.png" group-title="UK ENTERTAINMENT",BBC One Northern Ireland HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI2vYLNE_1lEBtIQ-dUxTaD
+#EXTINF:-1 timeshift="2" xui-id="2485143" tvg-id="BBCOneNorthernIreland.uk" tvg-name="BBC One Nothern Ireland" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-one-northern-ireland-uk.png" group-title="UK ENTERTAINMENT",BBC One Nothern Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLgCSXz3uDzy6XMrr03cDVb
+#EXTINF:-1 xui-id="2456008" tvg-id="BBCOneOxfordshire.uk" tvg-name="BBC One Oxford" tvg-logo="https://static.epg.best/uk/BBCOneOxford.uk.png" group-title="UK REGIONALS",BBC One Oxford
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvM7lvHOvelzoGo_739y5PHs
+#EXTINF:-1 xui-id="2456009" tvg-id="BBCOneScotland.uk" tvg-name="BBC One Scotland SD" tvg-logo="https://static.epg.best/uk/BBCOneScotland.uk.png" group-title="UK REGIONALS",BBC One Scotland SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNRB16I22x9h-5UxmQiIkv9
+#EXTINF:-1 xui-id="2456010" tvg-id="BBCOneSouth.uk" tvg-name="BBC One South" tvg-logo="https://static.epg.best/uk/BBCOneSouthEast.uk.png" group-title="UK REGIONALS",BBC One South
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOqrjlZWSUSF2K5AtJFtKct
+#EXTINF:-1 xui-id="2456011" tvg-id="BBCOneSouthEast.uk" tvg-name="BBC One South East" tvg-logo="https://static.epg.best/uk/BBCOneSouthEast.uk.png" group-title="UK REGIONALS",BBC One South East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNOXyVWd1XuNGzW_WP21wdH
+#EXTINF:-1 xui-id="2456012" tvg-id="BBCOneSouthWest.uk" tvg-name="BBC One South West" tvg-logo="https://static.epg.best/uk/BBCOneSouthEast.uk.png" group-title="UK REGIONALS",BBC One South West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOoFMkeBEFb09X4h1mdPXDS
+#EXTINF:-1 xui-id="2456013" tvg-id="BBCOneWales.uk" tvg-name="BBC One Wales" tvg-logo="https://static.epg.best/uk/BBCOneWales.uk.png" group-title="UK REGIONALS",BBC One Wales
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNJtO_wZAwe4mQxtwO4DYPl
+#EXTINF:-1 xui-id="2456014" tvg-id="BBCOneWest.uk" tvg-name="BBC One West" tvg-logo="https://static.epg.best/uk/BBCOneWales.uk.png" group-title="UK REGIONALS",BBC One West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvPIw9v8BNJ1DAjo7fPgGPLp
+#EXTINF:-1 xui-id="2456015" tvg-id="BBCOneWestMidlands.uk" tvg-name="BBC One West Midlands" tvg-logo="https://static.epg.best/uk/BBCOneWestMidland.uk.png" group-title="UK REGIONALS",BBC One West Midlands
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNGrGyoTDiVfbe3AVB3uY1u
+#EXTINF:-1 xui-id="2456016" tvg-id="" tvg-name="BBC One Yorkshire & North Midlands" tvg-logo="" group-title="UK REGIONALS",BBC One Yorkshire & North Midlands
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvM29wt99b_c7U6pBn0EMN2l
+#EXTINF:-1 timeshift="2" xui-id="2456017" tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" group-title="UK NEWS",BBC Parliament
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvM9moXcmEXWDWtB3In0NHe4
+#EXTINF:-1 timeshift="2" xui-id="2484939" tvg-id="" tvg-name="BBC Parliament SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-parliament-uk.png" group-title="UK NEWS",BBC Parliament SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNLbK4pEa1Bz4unKzeBkc0T
+#EXTINF:-1 xui-id="2456018" tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" tvg-logo="https://static.epg.best/uk/BBCScotland.uk.png" group-title="UK REGIONALS",BBC Scotland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNWlEdB-m2rEk6hc78QoYQi
+#EXTINF:-1 timeshift="2" xui-id="2484235" tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bbc-two-uk.png" group-title="UK ENTERTAINMENT",BBC Two
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGUK7W5UYOBR2mDPnpCraV1
+#EXTINF:-1 timeshift="2" xui-id="2484236" tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" tvg-logo="https://static.epg.best/nl/BBCTwo.nl.png" group-title="UK ENTERTAINMENT",BBC Two HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZG2wQHbSuPgmrrheK-MFTvu
+#EXTINF:-1 xui-id="2456020" tvg-id="BBCTwoNorthernIreland.uk" tvg-name="BBC Two Northern Ireland" tvg-logo="https://static.epg.best/uk/BBC2NI.uk.png" group-title="UK REGIONALS",BBC Two Northern Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvNKnpEYdqijDsMj80V5wIi8
+#EXTINF:-1 timeshift="2" xui-id="2485142" tvg-id="BBCTwoNorthernIreland.uk" tvg-name="BBC Two Northern Ireland" tvg-logo="https://static.epg.best/uk/BBC2NI.uk.png" group-title="UK ENTERTAINMENT",BBC Two Northern Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJK1ZHGFfJGGHLTTHd8gnTiI
+#EXTINF:-1 xui-id="2456021" tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales" tvg-logo="https://static.epg.best/uk/BBCTwoWales.uk.png" group-title="UK REGIONALS",BBC Two Wales
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOOcVkuWskeJeUbDvMQ8xa3
+#EXTINF:-1 timeshift="2" xui-id="2484238" tvg-id="Blaze.uk" tvg-name="Blaze" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/blaze-uk.png" group-title="UK DOCUMENTARIES",Blaze
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE8MiI2luzzdZwqU2OlD0IB
+#EXTINF:-1 timeshift="2" xui-id="2484940" tvg-id="Bloomberg.uk" tvg-name="Bloomberg HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/bloomberg-television-us.png" group-title="UK NEWS",Bloomberg HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMqYMEBcXsqxcAwV3N1JrBL
+#EXTINF:-1 timeshift="2" xui-id="2484951" tvg-id="Boomerang.uk" tvg-name="Boomerang SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="UK KIDS",Boomerang SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmM1_y_QSdpdGZ6Sf_f4n05G
+#EXTINF:-1 timeshift="2" xui-id="2484967" tvg-id="Boomerang+1.uk" tvg-name="Boomerang +1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/boomerang-1.png" group-title="UK KIDS",Boomerang +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPxQoOaShvHfZ2PQfvfXal7
+#EXTINF:-1 timeshift="2" xui-id="2484974" tvg-id="Boomerang.uk" tvg-name="Boomerang FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="UK KIDS",Boomerang FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPq4jPyB9OhJdt2vxeI8Kmi
+#EXTINF:-1 timeshift="2" xui-id="2484979" tvg-id="" tvg-name="Box Hits" tvg-logo="https://static.epg.best/uk/BoxHits.uk.png" group-title="UK MUSIC",Box Hits
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO7DouOLGomKZZIhoxT0SJt
+#EXTINF:-1 xui-id="2485160" tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",Brit Asia (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKqZ9-VuRhkbmkNYRf9-H2G
+#EXTINF:-1 xui-id="2485168" tvg-id="BritishMuslim.uk" tvg-name="British Muslim" tvg-logo="https://static.epg.best/uk/BritishMuslim.uk.png" group-title="UK INTERNATIONAL",British Muslim
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI35CCvcsUXP5pWOZ7AiJ5B
+#EXTINF:-1 timeshift="2" xui-id="2484224" tvg-id="BTSport4.uk" tvg-name="BT Sport  4 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport  4 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEO_EOm3K7UcwFNB9nM2DrX
+#EXTINF:-1 timeshift="2" xui-id="2484221" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZH85s7nLfrGZPzf1szx7KQ9
+#EXTINF:-1 timeshift="2" xui-id="2503673" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0iyOMI1xEycbZ3DTe91FwZ4MljRjLKW7KpmlDdIuY4dK
+#EXTINF:-1 timeshift="2" xui-id="2484211" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHJ4jOoB2zbp-zWBUQYgYs0
+#EXTINF:-1 timeshift="2" xui-id="2484220" tvg-id="BTSport6.uk" tvg-name="BT Sport 10" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-6-uk.png" group-title="UK BT SPORTS",BT Sport 10
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHHf05ZdR4SDPB_5A8bz4rx
+#EXTINF:-1 timeshift="2" xui-id="2484222" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGEZwq0u6Dctl8yHp7uuGNZ
+#EXTINF:-1 timeshift="2" xui-id="2503674" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0iyOMI1xEycbZ3DTe91FwZ7Edyf0Yp3ADMfDmoucXLK6
+#EXTINF:-1 timeshift="2" xui-id="2484212" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHUhTDvTkZKlmfAcgXSfOLF
+#EXTINF:-1 timeshift="2" xui-id="2484223" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE6XYXT6z02ZrcK4R_3nMex
+#EXTINF:-1 timeshift="2" xui-id="2503675" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0iyOMI1xEycbZ3DTe91FwZ5oAjivNbyXHyagzbb7TtFs
+#EXTINF:-1 timeshift="2" xui-id="2484213" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHFCzEgsVqg7tIH_AsU7Y79
+#EXTINF:-1 timeshift="2" xui-id="2503672" tvg-id="BTSportUltimate.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport 4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0iyOMI1xEycbZ3DTe91FwZ79yg_DnGhAQ455FeRHHsim
+#EXTINF:-1 timeshift="2" xui-id="2484214" tvg-id="" tvg-name="BT Sport 4 SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport 4 SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGLtqXhC86Dc-FI5-huVQdL
+#EXTINF:-1 timeshift="2" xui-id="2484215" tvg-id="BTSport1.uk" tvg-name="BT Sport 5" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-1-uk.png" group-title="UK BT SPORTS",BT Sport 5
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFPYme0c0hp3s_Xbckfr20e
+#EXTINF:-1 timeshift="2" xui-id="2484216" tvg-id="BTSport2.uk" tvg-name="BT Sport 6" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-2-uk.png" group-title="UK BT SPORTS",BT Sport 6
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHKr4T41rlyGfNq9tmsfkib
+#EXTINF:-1 timeshift="2" xui-id="2484217" tvg-id="BTSport3.uk" tvg-name="BT Sport 7" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-3-uk.png" group-title="UK BT SPORTS",BT Sport 7
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGWzfxtpzFuqzPYgYoSEGwl
+#EXTINF:-1 timeshift="2" xui-id="2484218" tvg-id="BTSport4.uk" tvg-name="BT Sport 8" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-4-uk.png" group-title="UK BT SPORTS",BT Sport 8
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEm5t_4vCMIHNCc5q5Mxs4q
+#EXTINF:-1 timeshift="2" xui-id="2484219" tvg-id="BTSport5.uk" tvg-name="BT Sport 9" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/bt-sport-extra-5-uk.png" group-title="UK BT SPORTS",BT Sport 9
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGPXy7dcs-L75yBHe1KFbdn
+#EXTINF:-1 timeshift="2" xui-id="2484961" tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="UK KIDS",Cartoon Network SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNV9_BlXJBiICR6ZeD6rjhv
+#EXTINF:-1 timeshift="2" xui-id="2484968" tvg-id="CartoonNetwork+1.uk" tvg-name="Cartoon Network +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_%2B1_2005.svg/revision/latest/scale-to-width-down/340?cb=20200901090452" group-title="UK KIDS",Cartoon Network +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmP_OYt4xeTjF7wxtwTTTflL
+#EXTINF:-1 timeshift="2" xui-id="2484975" tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" group-title="UK KIDS",Cartoon Network HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMcWqopX6ufSKXyhe3Qyp2p
+#EXTINF:-1 timeshift="2" xui-id="2484960" tvg-id="Cartoonito.uk" tvg-name="Cartoonito SD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnicaNxPi97BXo4VXnYqWrhT25T-v2jcoZ-Dyof-BQ=s900-c-k-c0x00ffffff-no-rj" group-title="UK KIDS",Cartoonito SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMK2cxkAxkHEYw3eAO0A3Fh
+#EXTINF:-1 timeshift="2" xui-id="2484963" tvg-id="CBBC.uk" tvg-name="CBBC" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="UK KIDS",CBBC
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOV2IlFrM0Q1pM1t0pnIuQs
+#EXTINF:-1 timeshift="2" xui-id="2487185" tvg-id="CBBC.uk" tvg-name="CBBC FHD" tvg-logo="http://plexflix.to/plexflix.to/picons/kids/cbbchd.png" group-title="UK KIDS",CBBC FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0pOqXzWj2BNp6JKKPE6oO0BOgjNO2XJfmffUD6PuGdGl
+#EXTINF:-1 timeshift="2" xui-id="2487184" tvg-id="CBeebies.uk" tvg-name="CBeebies HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/ceebies-HD-255x140.png?itok=JElXjAP8" group-title="UK KIDS",CBeebies HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0pOqXzWj2BNp6JKKPE6oO0AaW7w4iEPvxmvHsNBCCGiT
+#EXTINF:-1 timeshift="2" xui-id="2484239" tvg-id="" tvg-name="CBS Drama" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/cbs-drama-uk.png" group-title="UK ENTERTAINMENT",CBS Drama
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZF7cLQDAqGDUziRfx0wphO5
+#EXTINF:-1 timeshift="2" xui-id="2484240" tvg-id="" tvg-name="CBS Justice" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/cbs-justice-uk.png" group-title="UK ENTERTAINMENT",CBS Justice
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZH5-CL783K2IecyoisIibIG
+#EXTINF:-1 timeshift="2" xui-id="2484241" tvg-id="CBSReality.uk" tvg-name="CBS Reality" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/cbs-reality-uk.png" group-title="UK ENTERTAINMENT",CBS Reality
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGe8d1PzQ4FbXLxuOSh1FXa
+#EXTINF:-1 timeshift="2" xui-id="2484311" tvg-id="CBSReality+1.uk" tvg-name="CBS Reality +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/cbs-reality-plus-uk.png" group-title="UK ENTERTAINMENT",CBS Reality +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-QK1lEkrQl2rWFrAzRE5rT
+#EXTINF:-1 timeshift="2" xui-id="2484242" tvg-id="Challenge.uk" tvg-name="Challenge TV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/challenge-uk.png" group-title="UK ENTERTAINMENT",Challenge TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZF6FTXSJmSGIcbszxN2hYRU
+#EXTINF:-1 timeshift="2" xui-id="2484243" tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-4-uk.png" group-title="UK ENTERTAINMENT",Channel 4
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGwWDzLZKF-aHBAlFmrkbHN
+#EXTINF:-1 timeshift="2" xui-id="2484312" tvg-id="Channel4Scotland+1.uk" tvg-name="Channel 4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-4-plus-uk.png" group-title="UK ENTERTAINMENT",Channel 4 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8Jr4ORgLvGtEsYN2HIRuMI
+#EXTINF:-1 timeshift="2" xui-id="2484244" tvg-id="Channel4Anglia.uk" tvg-name="Channel 4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-4-uk.png" group-title="UK ENTERTAINMENT",Channel 4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGTzM3uJCpcqkalrTplYrcb
+#EXTINF:-1 xui-id="2456022" tvg-id="" tvg-name="Channel 4 Ireland" tvg-logo="https://static.epg.best/il/Channel24.il.png" group-title="UK REGIONALS",Channel 4 Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvMTtmfnTcfuMoi45MZ3a7cS
+#EXTINF:-1 xui-id="2456025" tvg-id="C4NRHD" tvg-name="Channel 4 Northern Ireland" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Channel_4_%281982%29.svg/revision/latest/scale-to-width-down/150?cb=20210622210147" group-title="UK REGIONALS",Channel 4 Northern Ireland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvO7r_J24WdnHAdDy0fBNp6t
+#EXTINF:-1 xui-id="2456026" tvg-id="C4SCOHD" tvg-name="Channel 4 Scotland +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Channel_4_%281982%29.svg/revision/latest/scale-to-width-down/150?cb=20210622210147" group-title="UK REGIONALS",Channel 4 Scotland +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOZ9AQcDbvrAzBpNSOxB3OU
+#EXTINF:-1 xui-id="2456028" tvg-id="" tvg-name="Channel 4 South & East +1" tvg-logo="" group-title="UK REGIONALS",Channel 4 South & East +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0gdSEEcKv7LV6GrDCy7kOvOKn3IsE0LeTb1oEPCNiAO-
+#EXTINF:-1 timeshift="2" xui-id="2485144" tvg-id="Channel44.uk" tvg-name="Channel 44" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" group-title="UK ENTERTAINMENT",Channel 44
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIH4ckN60b8hxcHUZWnm2HM
+#EXTINF:-1 timeshift="2" xui-id="2484245" tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-5-uk.png" group-title="UK ENTERTAINMENT",Channel 5
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEHk91tZcgxN9WP70CeP01s
+#EXTINF:-1 timeshift="2" xui-id="2484313" tvg-id="Channel5+1.uk" tvg-name="Channel 5 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-5-plus-uk.png" group-title="UK ENTERTAINMENT",Channel 5 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8HVLq_XiQKvTBrQA6Cw_wb
+#EXTINF:-1 timeshift="2" xui-id="2484246" tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-5-uk.png" group-title="UK ENTERTAINMENT",Channel 5 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHjZPyDRJFeEK2bV25HJmD8
+#EXTINF:-1 timeshift="2" xui-id="2484980" tvg-id="ClublandTV.uk" tvg-name="Clubland TV" tvg-logo="https://static.epg.best/uk/ClublandTV.uk.png" group-title="UK MUSIC",Clubland TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPJXqOpusEcPNXVPJQYnY07
+#EXTINF:-1 timeshift="2" xui-id="2484942" tvg-id="CNN.uk" tvg-name="CNN HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/cnn-us.png" group-title="UK NEWS",CNN HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMTMe-HQ006s-ZCgFarkZYp
+#EXTINF:-1 timeshift="2" xui-id="2484941" tvg-id="" tvg-name="CNN SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/cnn-us.png" group-title="UK NEWS",CNN SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPxEFz2vUfdIwkBGMIHrbwx
+#EXTINF:-1 xui-id="2485150" tvg-id="ColorsCineplex.uk" tvg-name="Colors Cineplex" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="UK INTERNATIONAL",Colors Cineplex
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKjcHjCLAChSjR7kq2d3UTt
+#EXTINF:-1 xui-id="2485183" tvg-id="Colors.uk" tvg-name="COLORS HD (Indian)" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="UK INTERNATIONAL",COLORS HD (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJOyWhlMKeyV9jhhguE9Ooa
+#EXTINF:-1 xui-id="2485181" tvg-id="ColorsRishtey.uk" tvg-name="Colors Rishtey (Indian)" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="UK INTERNATIONAL",Colors Rishtey (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJItTifailLWai1LtVDf6H9K
+#EXTINF:-1 timeshift="2" xui-id="2484247" tvg-id="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/comedy-central-uk.png" group-title="UK ENTERTAINMENT",Comedy Central
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHT7iTKzU6ylwU7JtbM2igD
+#EXTINF:-1 timeshift="2" xui-id="2484314" tvg-id="ComedyCentral+1.uk" tvg-name="Comedy Central +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/comedy-central-plus-uk.png" group-title="UK ENTERTAINMENT",Comedy Central +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8YuIF3x5hJJhTZHGBWKAuD
+#EXTINF:-1 timeshift="2" xui-id="2484337" tvg-id="ComedyCentral.uk" tvg-name="Comedy Central HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/comedy-central-uk.png" group-title="UK ENTERTAINMENT",Comedy Central HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_R4L1fu4lRTrB3aGprfWHV
+#EXTINF:-1 timeshift="2" xui-id="2484248" tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Xtra" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/comedy-central-extra-uk.png" group-title="UK ENTERTAINMENT",Comedy Central Xtra
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHuH3KfNzNzNeHKpBwxcQbx
+#EXTINF:-1 timeshift="2" xui-id="2485207" tvg-id="CreateAndCraft.uk" tvg-name="Create & Craft HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/create-and-craft-uk.png" group-title="UK ENTERTAINMENT",Create & Craft HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5dqhbSVRWt0wkx3-1Jybqn
+#EXTINF:-1 timeshift="2" xui-id="2484388" tvg-id="Crime+Investigation.uk" tvg-name="Crime & Investigation HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/crime-and-investigation-uk.png" group-title="UK DOCUMENTARIES",Crime & Investigation HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-QdIPQhIcljsD4kLTKPUAc
+#EXTINF:-1 timeshift="2" xui-id="2484249" tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/dave-uk.png" group-title="UK ENTERTAINMENT",Dave
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZESBJMMNmPmIG44n8iy3kGz
+#EXTINF:-1 timeshift="2" xui-id="2484338" tvg-id="Dave.uk" tvg-name="Dave HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/dave-uk.png" group-title="UK ENTERTAINMENT",Dave HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9hgTL31DYOfgcuW_AQmVMb
+#EXTINF:-1 timeshift="2" xui-id="2484250" tvg-id="Davejavu.uk" tvg-name="Dave Ja Vu" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/dave-ja-vu-uk.png" group-title="UK ENTERTAINMENT",Dave Ja Vu
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFFICMr6vkdFApRVBNgoYgU
+#EXTINF:-1 timeshift="2" xui-id="2484366" tvg-id="DiscoveryChannel.uk" tvg-name="Discovery" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-channel-uk.png" group-title="UK DOCUMENTARIES",Discovery
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8gxY0UChS4Hzt_fxFSHxRJ
+#EXTINF:-1 timeshift="2" xui-id="2484380" tvg-id="DiscoveryChannel+1.uk" tvg-name="Discovery +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-channel-plus-uk.png" group-title="UK DOCUMENTARIES",Discovery +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_cJfdGJqZgB7-DaCtPyKbC
+#EXTINF:-1 timeshift="2" xui-id="2484389" tvg-id="DiscoveryChannel.uk" tvg-name="Discovery HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-channel-uk.png" group-title="UK DOCUMENTARIES",Discovery HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8zZOkkYBW-R_69LAls2upl
+#EXTINF:-1 timeshift="2" xui-id="2484370" tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-history-uk.png" group-title="UK DOCUMENTARIES",Discovery History
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9P7BZikZm9Kkzdh8X1KeLG
+#EXTINF:-1 timeshift="2" xui-id="2484381" tvg-id="DiscoveryHistory+1.uk" tvg-name="Discovery History +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-history-plus-uk.png" group-title="UK DOCUMENTARIES",Discovery History +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8GNrrIVgydyLYfcec4xKeP
+#EXTINF:-1 timeshift="2" xui-id="2484368" tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-science-uk.png" group-title="UK DOCUMENTARIES",Discovery Science
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO871qYMyVRjCqlF55TV0g5f
+#EXTINF:-1 timeshift="2" xui-id="2484382" tvg-id="DiscoveryScience+1.uk" tvg-name="Discovery Science +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-science-plus-uk.png" group-title="UK DOCUMENTARIES",Discovery Science +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9mxpnCnrBl4VxdX9p-U7CT
+#EXTINF:-1 timeshift="2" xui-id="2484367" tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-turbo-uk.png" group-title="UK DOCUMENTARIES",Discovery Turbo
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8igoLdlW9qjyR2g1D0yOzf
+#EXTINF:-1 timeshift="2" xui-id="2484383" tvg-id="DiscoveryTurbo+1.uk" tvg-name="Discovery Turbo +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/discovery-turbo-plus-uk.png" group-title="UK DOCUMENTARIES",Discovery Turbo +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8u5o8UBuUWC6Se6wno-Rf4
+#EXTINF:-1 timeshift="2" xui-id="2484251" tvg-id="DMAX.uk" tvg-name="DMAX UK" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/dmax-uk.png" group-title="UK ENTERTAINMENT",DMAX UK
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE3rikK3VWKD2JpEVYeNXxb
+#EXTINF:-1 timeshift="2" xui-id="2484252" tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/drama-uk.png" group-title="UK ENTERTAINMENT",Drama
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFcsoSiqgh777NJMlXp3ciL
+#EXTINF:-1 timeshift="2" xui-id="2484253" tvg-id="Drama+1.uk" tvg-name="Drama +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/drama-plus-uk.png" group-title="UK ENTERTAINMENT",Drama +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEnhOV5Ufk0G0flIW-e3_7h
+#EXTINF:-1 xui-id="2485157" tvg-id="DunyaNews.uk" tvg-name="Dunya News" tvg-logo="https://static.epg.best/pk/DunyaNews.pk.png" group-title="UK INTERNATIONAL",Dunya News
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLPiKm7Lyfa5dS8tXR91ymX
+#EXTINF:-1 timeshift="2" xui-id="2484339" tvg-id="EEntertainment.uk" tvg-name="E! Entertainment HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-entertainment-uk.png" group-title="UK ENTERTAINMENT",E! Entertainment HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_-x6TKxzD1oDYZiYTFLpmO
+#EXTINF:-1 timeshift="2" xui-id="2484255" tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-4-uk.png" group-title="UK ENTERTAINMENT",E4
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGSKvIDLOej4P7AzxojaF_A
+#EXTINF:-1 timeshift="2" xui-id="2484316" tvg-id="E4+1.uk" tvg-name="E4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-4-plus-uk.png" group-title="UK ENTERTAINMENT",E4 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO--GBbvXwMXq_AtlMDmoyR7
+#EXTINF:-1 timeshift="2" xui-id="2484340" tvg-id="E4.uk" tvg-name="E4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-4-uk.png" group-title="UK ENTERTAINMENT",E4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8-IC2qskPcGDNK6j_jtTBY
+#EXTINF:-1 timeshift="2" xui-id="2484371" tvg-id="Eden.uk" tvg-name="Eden" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/eden-uk.png" group-title="UK DOCUMENTARIES",Eden
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-1Pk0wFa8--VtIZ19wz_E6
+#EXTINF:-1 timeshift="2" xui-id="2484384" tvg-id="Eden+1.uk" tvg-name="Eden +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/eden-plus-uk.png" group-title="UK DOCUMENTARIES",Eden +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_7e8rVmapVH6qb4-JNtqHP
+#EXTINF:-1 xui-id="2485164" tvg-id="EmanChannel.uk" tvg-name="Eman Channel (Indian)" tvg-logo="https://static.epg.best/uk/EmanChannel.uk.png" group-title="UK INTERNATIONAL",Eman Channel (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIZPoQ_UXiCIm8CgJL2r1Bj
+#EXTINF:-1 timeshift="2" xui-id="2485145" tvg-id="Euronews.uk" tvg-name="Euronews SD" tvg-logo="https://static.euronews.com/website/images/euronews_logo.png" group-title="UK NEWS",Euronews SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJL0CiQfixTWgdHAkdD1bbVt
+#EXTINF:-1 timeshift="2" xui-id="2485127" tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/eurosport-1-uk.png" group-title="UK SPORTS",Eurosport 1 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJexsVUUSVpalFDwOR5XEY6
+#EXTINF:-1 timeshift="2" xui-id="2485128" tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/eurosport-2-uk.png" group-title="UK SPORTS",Eurosport 2 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKhecHPRCpKzFqTZo2Ov_7p
+#EXTINF:-1 timeshift="2" xui-id="2484902" tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/film-4-uk.png" group-title="UK ENTERTAINMENT",Film4
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNuTJqf5SWbw8ZLwQtwVO9l
+#EXTINF:-1 timeshift="2" xui-id="2484916" tvg-id="Film4+1.uk" tvg-name="Film4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/film-4-plus-uk.png" group-title="UK ENTERTAINMENT",Film4 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmM0A1_Jl-c1cYwy9n8mnU21
+#EXTINF:-1 timeshift="2" xui-id="2484922" tvg-id="Film4.uk" tvg-name="Film4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/film-4-uk.png" group-title="UK ENTERTAINMENT",Film4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPwrS4OpOPnQVpd0DWXVycF
+#EXTINF:-1 timeshift="2" xui-id="2484256" tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/food-network-uk.png" group-title="UK ENTERTAINMENT",Food Network
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGtLjVaKngGfvGC_iGkC0tM
+#EXTINF:-1 timeshift="2" xui-id="2484317" tvg-id="FoodNetwork+1.uk" tvg-name="Food Network +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/food-network-plus-uk.png" group-title="UK ENTERTAINMENT",Food Network +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-z9DCcx4Qy_H4O2viEnCfx
+#EXTINF:-1 timeshift="2" xui-id="2485154" tvg-id="FoodXP.uk" tvg-name="Food Xp" tvg-logo="https://media.discordapp.net/attachments/675489656758075453/807387221350547456/FoodXPFinal.png" group-title="UK ENTERTAINMENT",Food Xp
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI-9QL3qb9ltHYtQlGWV7Hc
+#EXTINF:-1 timeshift="2" xui-id="2484943" tvg-id="France24.uk" tvg-name="France 24 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/france/france-24-fr.png" group-title="UK NEWS",France 24 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNB_dhkntdgnRBYAjCQrZWV
+#EXTINF:-1 timeshift="2" xui-id="2485118" tvg-id="FREESPO" tvg-name="Free Sports HD" tvg-logo="http://fanc.tmsimg.com/assets/s105388_ll_h3_aa.png" group-title="UK SPORTS",Free Sports HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJK_CASh2Dx9qFxMxJChR8rD
+#EXTINF:-1 timeshift="2" xui-id="2884284" tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/GB_News_Logo.svg" group-title="UK NEWS",GB News
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0hZ4lxbK6AQ_l-jxMexEIxoIuVGF2MllzFRmdDl80Ff0
+#EXTINF:-1 xui-id="2485178" tvg-id="GEONews.uk" tvg-name="GEO NEWS (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",GEO NEWS (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJwtLd7JvLTJgBO-_QRZ3Xk
+#EXTINF:-1 xui-id="2485174" tvg-id="GEOTV.uk" tvg-name="GEO TV (Pakistan)" tvg-logo="" group-title="UK INTERNATIONAL",GEO TV (Pakistan)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKp7wLOCnMY0dEm-PcDWRje
+#EXTINF:-1 timeshift="2" xui-id="2485203" tvg-id="" tvg-name="God Europe" tvg-logo="http://epg.blackouttv.cx/logo/countries/international/god-channel-int.png" group-title="UK ENTERTAINMENT",God Europe
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6010_S7FxpU6jLPuzd8Xub
+#EXTINF:-1 timeshift="2" xui-id="2484259" tvg-id="Gold.uk" tvg-name="Gold" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/gold-uk.png" group-title="UK ENTERTAINMENT",Gold
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFU77bvj5sEQkyb142fY0VS
+#EXTINF:-1 timeshift="2" xui-id="2484343" tvg-id="Gold.uk" tvg-name="Gold HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/gold-uk.png" group-title="UK ENTERTAINMENT",Gold HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-AX0o71otnwZHtblTdIgEo
+#EXTINF:-1 timeshift="2" xui-id="2484897" tvg-id="" tvg-name="Great Movies Classic" tvg-logo="https://assets.greatnetwork.com/wp-content/uploads/2021/09/16114238/logo-great-movie-classic%402x.png" group-title="UK ENTERTAINMENT",Great Movies Classic
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0t6gcmqatxretCCxWRbaposVKuYF9II8PBghqSL_KAZi
+#EXTINF:-1 timeshift="2" xui-id="2484898" tvg-id="" tvg-name="Great Movies!" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-05/great-movies.png?itok=iMbXdCuJ" group-title="UK ENTERTAINMENT",Great Movies!
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0t6gcmqatxretCCxWRbapovgQbDewbuuF2IQOQPQKjlP
+#EXTINF:-1 timeshift="2" xui-id="2484331" tvg-id="GREAT!tv+1.uk" tvg-name="Great TV +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sony-channel-plus-uk.png" group-title="UK ENTERTAINMENT",Great TV +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-qsbStwl-YXfeP89dkAwgP
+#EXTINF:-1 timeshift="2" xui-id="2484357" tvg-id="GREAT!tv.uk" tvg-name="Great TV FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sony-channel-uk.png" group-title="UK ENTERTAINMENT",Great TV FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8sJvFx4g6a87CkGTNYtqzv
+#EXTINF:-1 timeshift="2" xui-id="3348546" tvg-id="GREAT!movies+1.uk" tvg-name="Great! Movies +1" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-05/great-movies-plus-1.png?itok=qdmAdZ0N" group-title="UK ENTERTAINMENT",Great! Movies +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mPdxLMa-tLdd-XnxV1dZVgT01AnUfDOn9twSN36XmFA
+#EXTINF:-1 timeshift="2" xui-id="3348547" tvg-id="GREAT!moviesaction.uk" tvg-name="Great! Movies Action" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/05/GREAT-MOVIES-ACTION.png" group-title="UK ENTERTAINMENT",Great! Movies Action
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mPdxLMa-tLdd-XnxV1dZViMwE-PCOk3K7QlwtTVY79U
+#EXTINF:-1 timeshift="2" xui-id="3348548" tvg-id="GREAT!moviesaction+1.uk" tvg-name="Great! Movies Action +1" tvg-logo="" group-title="UK ENTERTAINMENT",Great! Movies Action +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mPdxLMa-tLdd-XnxV1dZVhz6MHgoJBaVvRxRpBx7zXd
+#EXTINF:-1 timeshift="2" xui-id="3348545" tvg-id="GREAT!moviesclassic+1.uk" tvg-name="Great! Movies Classic +1" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-05/great-movies-classic-plus-1.png?itok=DQk-AyXN" group-title="UK ENTERTAINMENT",Great! Movies Classic +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mPdxLMa-tLdd-XnxV1dZVgAwdHoNid4iZ_ndtEMEYwv
+#EXTINF:-1 timeshift="2" xui-id="2484372" tvg-id="HGTV.uk" tvg-name="HGTV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/hgtv-uk.png" group-title="UK ENTERTAINMENT",HGTV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-XNHxeM7PcmVK6i6a1ikx3
+#EXTINF:-1 xui-id="2485179" tvg-id="HidayatTV.uk" tvg-name="Hidayat TV (Indian)" tvg-logo="https://static.epg.best/uk/HidayatTV.uk.png" group-title="UK INTERNATIONAL",Hidayat TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIV47jvO9I-iLUv3OL9ie1z
+#EXTINF:-1 timeshift="2" xui-id="2484901" tvg-id="" tvg-name="Horror Channel" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/horror-channel-uk.png" group-title="UK ENTERTAINMENT",Horror Channel
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOhLCVll7wNQPUIqVsV0Q_f
+#EXTINF:-1 timeshift="2" xui-id="2484917" tvg-id="" tvg-name="Horror Channel +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/horror-channel-plus-uk.png" group-title="UK ENTERTAINMENT",Horror Channel +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOh2DtNB_JliaG85T7Yid7q
+#EXTINF:-1 xui-id="2485166" tvg-id="HumEurope.uk" tvg-name="HUM EUROPE (Indian)" tvg-logo="https://static.epg.best/pk/HumTVEurope.pk.png" group-title="UK INTERNATIONAL",HUM EUROPE (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLU0JbikpVe1RQzNrDGK_Ca
+#EXTINF:-1 xui-id="2485182" tvg-id="HUMMasala.uk" tvg-name="HUM Masala (Indian)" tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="UK INTERNATIONAL",HUM Masala (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIfQCzv35DqTV1YOtkp6WzD
+#EXTINF:-1 xui-id="2485163" tvg-id="HumNews.uk" tvg-name="HUM NEWS (Pakistan)" tvg-logo="https://static.epg.best/pk/HumNews.pk.png" group-title="UK INTERNATIONAL",HUM NEWS (Pakistan)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKFcD-EsvZ6iyWvtt0_Gnl5
+#EXTINF:-1 timeshift="2" xui-id="2485209" tvg-id="IdealExtra.uk" tvg-name="Ideal Extra" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/ideal-world-uk.png" group-title="UK ENTERTAINMENT",Ideal Extra
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4fHs-FP08LEQSYDZvk5EZ5
+#EXTINF:-1 timeshift="2" xui-id="2485206" tvg-id="IdealWorld.uk" tvg-name="Ideal World HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/ideal-world-uk.png" group-title="UK ENTERTAINMENT",Ideal World HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4K-EdPqdOvI3k5nxkzvXdq
+#EXTINF:-1 timeshift="2" xui-id="2484373" tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/investigation-discovery-uk.png" group-title="UK DOCUMENTARIES",Investigation Discovery
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9QZJL5hDRVx7Q2JwN7ThSa
+#EXTINF:-1 timeshift="2" xui-id="2484386" tvg-id="InvestigationDiscovery+1.uk" tvg-name="Investigation Discovery +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/investigation-discovery-plus-uk.png" group-title="UK DOCUMENTARIES",Investigation Discovery +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_CjqopcjzfIXhCB_KFxXmD
+#EXTINF:-1 timeshift="2" xui-id="2484269" tvg-id="ionTV.uk" tvg-name="iON TV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/ion-television-us.png" group-title="UK ENTERTAINMENT",iON TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGynkucYYeAEnp-uBLXvuzJ
+#EXTINF:-1 xui-id="2485193" tvg-id="IQRATV.uk" tvg-name="IQRA TV (indian)" tvg-logo="https://static.epg.best/sa/IqraaTV.sa.png" group-title="UK INTERNATIONAL",IQRA TV (indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJwPC-votBDRXe-_U8RwVMx
+#EXTINF:-1 xui-id="2485152" tvg-id="IranInternational.uk" tvg-name="Iran International HD" tvg-logo="" group-title="UK INTERNATIONAL",Iran International HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJ2l3vvKjcuTa3uTey2jSjF
+#EXTINF:-1 xui-id="2485175" tvg-id="IslamChannel.uk" tvg-name="Islam Channel (Indian)" tvg-logo="https://static.epg.best/uk/IslamChannel.uk.png" group-title="UK INTERNATIONAL",Islam Channel (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLqqUUcfml6mj5VyII0_f5C
+#EXTINF:-1 timeshift="2" xui-id="2484261" tvg-id="ITV1.uk" tvg-name="ITV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-uk.png" group-title="UK ENTERTAINMENT",ITV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFJvCbgkr8aJnCxQbDh4JQu
+#EXTINF:-1 timeshift="2" xui-id="2484320" tvg-id="ITV1London+1.uk" tvg-name="ITV +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-plus-uk.png" group-title="UK ENTERTAINMENT",ITV +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO85DtngCkBPz3dDyorfygnm
+#EXTINF:-1 xui-id="2455963" tvg-id="ITVAnglia.uk" tvg-name="ITV Anglia East" tvg-logo="https://static.epg.best/uk/ITVAnglia.uk.png" group-title="UK REGIONALS",ITV Anglia East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSpe6xlkNwFtZXOx1bWUoTo
+#EXTINF:-1 xui-id="2455965" tvg-id="ITVAnglia.uk" tvg-name="ITV Anglia West" tvg-logo="https://static.epg.best/uk/ITVAnglia.uk.png" group-title="UK REGIONALS",ITV Anglia West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSBAWZP_oaHdBxIIdbzB8_N
+#EXTINF:-1 xui-id="2455966" tvg-id="" tvg-name="ITV Border England" tvg-logo="" group-title="UK REGIONALS",ITV Border England
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSgnfuGM1JulL4W7KwnRufb
+#EXTINF:-1 xui-id="2455967" tvg-id="ITVBorderScotland.uk" tvg-name="ITV Border Scotland" tvg-logo="" group-title="UK REGIONALS",ITV Border Scotland
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvQbcn6LLfIMk4lxT5v4RNmR
+#EXTINF:-1 xui-id="2455968" tvg-id="ITVCentraleast.uk" tvg-name="ITV Central East" tvg-logo="https://static.epg.best/uk/ITVCentral.uk.png" group-title="UK REGIONALS",ITV Central East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRpbLxjPwtTHrtkoMHeZeZT
+#EXTINF:-1 xui-id="2455969" tvg-id="" tvg-name="ITV Central West" tvg-logo="https://static.epg.best/uk/ITVCentral.uk.png" group-title="UK REGIONALS",ITV Central West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvTbZ-fztUow5sF7YpeY8klL
+#EXTINF:-1 xui-id="2455971" tvg-id="" tvg-name="ITV Channel TV" tvg-logo="" group-title="UK REGIONALS",ITV Channel TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRSXzHbv-UCjsbAn6jDI-EZ
+#EXTINF:-1 timeshift="2" xui-id="2484262" tvg-id="ITV1.uk" tvg-name="ITV FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-uk.png" group-title="UK ENTERTAINMENT",ITV FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGMlYXWgaa4ImHuirFpDLAo
+#EXTINF:-1 xui-id="2455955" tvg-id="ITVMeridianeast.uk" tvg-name="ITV FHD Meridian" tvg-logo="" group-title="UK REGIONALS",ITV FHD Meridian
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvTk8GB33kkzLHEcRRcoI9Uk
+#EXTINF:-1 xui-id="2455972" tvg-id="ITVGranada.uk" tvg-name="ITV Granada" tvg-logo="https://static.epg.best/uk/ITVGranada.uk.png" group-title="UK REGIONALS",ITV Granada
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvQskY1pVQDBIXFTi7oWMuvw
+#EXTINF:-1 timeshift="2" xui-id="2484263" tvg-id="ITV1.uk" tvg-name="ITV HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-uk.png" group-title="UK ENTERTAINMENT",ITV HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEeRJ5yzRE7hUoEthOLGIHz
+#EXTINF:-1 xui-id="2455974" tvg-id="ITVLondon.uk" tvg-name="ITV London" tvg-logo="" group-title="UK REGIONALS",ITV London
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvQyo1T18cJHtInmIzyuwVgo
+#EXTINF:-1 xui-id="2455976" tvg-id="ITVMeridianeast.uk" tvg-name="ITV Meridian East" tvg-logo="" group-title="UK REGIONALS",ITV Meridian East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSJAFocyIeFl4SVBgnkY4Vl
+#EXTINF:-1 xui-id="2455978" tvg-id="" tvg-name="ITV Meridian South Coast" tvg-logo="" group-title="UK REGIONALS",ITV Meridian South Coast
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvQtO3uZio8sP4dQ6jiOLudG
+#EXTINF:-1 xui-id="2455979" tvg-id="" tvg-name="ITV Meridian Thames Valley" tvg-logo="" group-title="UK REGIONALS",ITV Meridian Thames Valley
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRkZOiA_BAk5kDWsLNVZ_a-
+#EXTINF:-1 xui-id="2455980" tvg-id="ITVTyneTees.uk" tvg-name="ITV Tyne Tees" tvg-logo="https://static.epg.best/uk/ITVTyneTees.uk.png" group-title="UK REGIONALS",ITV Tyne Tees
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvS9pIvV7Da5O-T9ReLIxOgx
+#EXTINF:-1 xui-id="2455981" tvg-id="ITVWales.uk" tvg-name="ITV Wales" tvg-logo="https://static.epg.best/uk/ITVWales.uk.png" group-title="UK REGIONALS",ITV Wales
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSQ-3V7bfj6dcDEI9NxMhUd
+#EXTINF:-1 xui-id="2455983" tvg-id="" tvg-name="ITV West Country West" tvg-logo="" group-title="UK REGIONALS",ITV West Country West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvTFmWfolO5_PE1tOXpw4vH_
+#EXTINF:-1 xui-id="2455985" tvg-id="ITVWestcountry.uk" tvg-name="ITV Westcountry South West" tvg-logo="" group-title="UK REGIONALS",ITV Westcountry South West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSXGuSLvmf3rVZdBPFtoGbj
+#EXTINF:-1 xui-id="2455988" tvg-id="" tvg-name="ITV Yorkshire West" tvg-logo="" group-title="UK REGIONALS",ITV Yorkshire West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvQPf3Atb-Sjj_kBHpowJcLx
+#EXTINF:-1 timeshift="2" xui-id="2484265" tvg-id="ITV2.uk" tvg-name="ITV2" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-2-uk.png" group-title="UK ENTERTAINMENT",ITV2
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEz48XryY9N7vt2DE1lCKhL
+#EXTINF:-1 timeshift="2" xui-id="2484321" tvg-id="ITV2+1.uk" tvg-name="ITV2 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-2-plus-uk.png" group-title="UK ENTERTAINMENT",ITV2 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-Onw2uo5HNymXc9kxl667T
+#EXTINF:-1 timeshift="2" xui-id="2484344" tvg-id="ITV2.uk" tvg-name="ITV2 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-2-uk.png" group-title="UK ENTERTAINMENT",ITV2 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8306OzRnotGXk5DUAzF2uo
+#EXTINF:-1 timeshift="2" xui-id="2484266" tvg-id="ITV3.uk" tvg-name="ITV3" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-3-uk.png" group-title="UK ENTERTAINMENT",ITV3
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGOAW5lhienam08mX32Wxx5
+#EXTINF:-1 timeshift="2" xui-id="2484322" tvg-id="ITV3+1.uk" tvg-name="ITV3 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-3-plus-uk.png" group-title="UK ENTERTAINMENT",ITV3 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8P8tWe-OSdXAnuwjqQEf5L
+#EXTINF:-1 timeshift="2" xui-id="2484345" tvg-id="ITV3.uk" tvg-name="ITV3 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-3-uk.png" group-title="UK ENTERTAINMENT",ITV3 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_UPiOQ2XceJddTso948edA
+#EXTINF:-1 timeshift="2" xui-id="2484267" tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-4-uk.png" group-title="UK ENTERTAINMENT",ITV4
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEK9VSulDnW1c8yLXKlyNUV
+#EXTINF:-1 timeshift="2" xui-id="2484323" tvg-id="ITV4+1.uk" tvg-name="ITV4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-4-plus-uk.png" group-title="UK ENTERTAINMENT",ITV4 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9lLXe7x4V2uVRZ4QhNV2sh
+#EXTINF:-1 timeshift="2" xui-id="2484346" tvg-id="ITV4.uk" tvg-name="ITV4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-4-uk.png" group-title="UK ENTERTAINMENT",ITV4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8xr2xYb-Sf0Cf_EHafe_Sr
+#EXTINF:-1 timeshift="2" xui-id="2484268" tvg-id="ITVBe.uk" tvg-name="ITVBe" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-be-uk.png" group-title="UK ENTERTAINMENT",ITVBe
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZH5zSK5Z_C0TrmU5sAvVwDp
+#EXTINF:-1 timeshift="2" xui-id="2484324" tvg-id="ITVBe+1.uk" tvg-name="ITVBe +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-be-plus-uk.png" group-title="UK ENTERTAINMENT",ITVBe +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8JGc-0tBaTUIAKVBmRxHNE
+#EXTINF:-1 xui-id="2455961" tvg-id="" tvg-name="ITVi Stream 44" tvg-logo="" group-title="UK REGIONALS",ITVi Stream 44
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvS8rgTVrYVk7DMLkkPR4zCv
+#EXTINF:-1 xui-id="2485205" tvg-id="JMLDirect.uk" tvg-name="JML Direct" tvg-logo="https://static.epg.best/uk/JMLDirect.uk.png" group-title="UK INTERNATIONAL",JML Direct
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5vAaKmNkYau76ix6q4ltrG
+#EXTINF:-1 timeshift="2" xui-id="2484981" tvg-id="Kerrang!TV.uk" tvg-name="Kerrang" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" group-title="UK MUSIC",Kerrang
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOgJoPr4pleRWeBxCU4M0TJ
+#EXTINF:-1 timeshift="2" xui-id="2484982" tvg-id="KissTV.uk" tvg-name="Kiss TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png/revision/latest?cb=20190706091330" group-title="UK MUSIC",Kiss TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPxdhMsnXrYs1YDhPZsT2Kp
+#EXTINF:-1 xui-id="2485192" tvg-id="" tvg-name="KTV India (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",KTV India (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIkCKw67mHNO3eR5aVpHolk
+#EXTINF:-1 timeshift="2" xui-id="2485131" tvg-id="LFCTV.uk" tvg-name="LFC TV HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/lfctv-uk.png" group-title="UK SPORTS",LFC TV HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKRIl3vQ9av_2BoQ7vS5NDi
+#EXTINF:-1 timeshift="2" xui-id="2484272" tvg-id="" tvg-name="London Live FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/london-live-uk.png" group-title="UK NEWS",London Live FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGmGi6IaFLaTY1J09jMSfdA
+#EXTINF:-1 timeshift="2" xui-id="2485202" tvg-id="LoveWorld.uk" tvg-name="Love World HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/loveworld-uk.png" group-title="UK ENTERTAINMENT",Love World HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT61cYdSfv_9vBu9uTwtmM0J
+#EXTINF:-1 xui-id="2485171" tvg-id="" tvg-name="MADANI TV (Pakistan)" tvg-logo="" group-title="UK INTERNATIONAL",MADANI TV (Pakistan)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIGb-Q3amyMvez-SLCsb1oL
+#EXTINF:-1 timeshift="2" xui-id="2484983" tvg-id="Magic.uk" tvg-name="Magic" tvg-logo="https://static.epg.best/uk/Magic.uk.png" group-title="UK MUSIC",Magic
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmN7XSZZWR1qjR4yXYsMqcw_
+#EXTINF:-1 xui-id="2485155" tvg-id="" tvg-name="MATV National (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",MATV National (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKuURmtUyieCLKM-lJW0fOn
+#EXTINF:-1 timeshift="2" xui-id="2484273" tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-more-uk.png" group-title="UK ENTERTAINMENT",More 4
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZH-iv18U48voXzS-1EvcDWv
+#EXTINF:-1 timeshift="2" xui-id="2484325" tvg-id="More4+1.uk" tvg-name="More 4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-more-plus-uk.png" group-title="UK ENTERTAINMENT",More 4 +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8exnWj_F0WXDFQ50LCP8tY
+#EXTINF:-1 timeshift="2" xui-id="2484347" tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-more-uk.png" group-title="UK ENTERTAINMENT",More 4 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_qA8M5JhgrvArPxRPTCLju
+#EXTINF:-1 xui-id="2485180" tvg-id="" tvg-name="MTA International (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",MTA International (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKY6VE0En7GTpBdjZjiyzeI
+#EXTINF:-1 timeshift="2" xui-id="2484984" tvg-id="MTV.uk" tvg-name="MTV SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/mtv-uk.png" group-title="UK ENTERTAINMENT",MTV SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmM4Ja9mmR7ASAmeE1uCo-VS
+#EXTINF:-1 timeshift="2" xui-id="2484986" tvg-id="" tvg-name="MTV Base" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png" group-title="UK MUSIC",MTV Base
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPKoDe4XpQ33uwGKVrSva1m
+#EXTINF:-1 timeshift="2" xui-id="2484987" tvg-id="" tvg-name="MTV Classic SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/mtv-classic-uk.png" group-title="UK ENTERTAINMENT",MTV Classic SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNXj3bgfzj1pw5IFwTEFZIE
+#EXTINF:-1 timeshift="2" xui-id="2484985" tvg-id="MTV.uk" tvg-name="MTV HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/mtv-uk.png" group-title="UK ENTERTAINMENT",MTV HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPGG2r4KJ9yC5lWvOWVO36Q
+#EXTINF:-1 timeshift="2" xui-id="2484988" tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="UK MUSIC",MTV Hits
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOUEtIBaVHXcG8g2XtcS883
+#EXTINF:-1 timeshift="2" xui-id="2484989" tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png" group-title="UK MUSIC",MTV Music
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOqB-RGslzfhi_eygl-AB4W
+#EXTINF:-1 timeshift="2" xui-id="2485130" tvg-id="MUTV.uk" tvg-name="MUTV FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/mutv-uk.png" group-title="UK SPORTS",MUTV FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKD3HsjrkP3AqD31nG8uCbT
+#EXTINF:-1 timeshift="2" xui-id="2485122" tvg-id="MUTV.uk" tvg-name="MUTV FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/mutv-uk.png" group-title="UK SPORTS",MUTV FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLsvc7K66VwDnB2cRS_4vBo
+#EXTINF:-1 timeshift="2" xui-id="2484374" tvg-id="NationalGeographicChannel.uk" tvg-name="Nat Geo FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/national-geographic-us.png" group-title="UK DOCUMENTARIES",Nat Geo FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_qzH167dfHMFj1cAiJByJe
+#EXTINF:-1 timeshift="2" xui-id="2484390" tvg-id="NationalGeographicChannel.uk" tvg-name="Nat Geo HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/national-geographic-us.png" group-title="UK DOCUMENTARIES",Nat Geo HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_L6ClEpGXpLe80ruWnsffI
+#EXTINF:-1 timeshift="2" xui-id="2484375" tvg-id="NationalGeographicWild.uk" tvg-name="Nat Geo Wild FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/nat-geo-wild-us.png" group-title="UK DOCUMENTARIES",Nat Geo Wild FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-bvRaq828oenf10POYa0BC
+#EXTINF:-1 timeshift="2" xui-id="2484391" tvg-id="NationalGeographicWild.uk" tvg-name="Nat Geo Wild HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-states/nat-geo-wild-us.png" group-title="UK DOCUMENTARIES",Nat Geo Wild HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9U0vBH0hoGkDp5fCvzsL29
+#EXTINF:-1 timeshift="2" xui-id="2485147" tvg-id="NDTV24x7.uk" tvg-name="NDTV 24/7" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/ndtv-24x7-uk.png" group-title="UK NEWS",NDTV 24/7
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIX6TLx110X-_p4wZowLQUr
+#EXTINF:-1 xui-id="2485176" tvg-id="" tvg-name="New Vision TV (Indian)" tvg-logo="https://static.epg.best/in/News1India.in.png" group-title="UK INTERNATIONAL",New Vision TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIJDJbWrSCnPPZmw-fcgUH7
+#EXTINF:-1 timeshift="2" xui-id="2484945" tvg-id="NHKWorld.uk" tvg-name="NHK World FHD" tvg-logo="https://media.discordapp.net/attachments/675489656758075453/801182253426147388/NHKFINAL.png?width=600&height=600" group-title="UK NEWS",NHK World FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMtouePKaUywDqinYaFwmFB
+#EXTINF:-1 timeshift="2" xui-id="2484976" tvg-id="Nickelodeon.uk" tvg-name="Nick FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/nick-uk.png" group-title="UK KIDS",Nick FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMrTw-twAWk2S0-ivRybqfz
+#EXTINF:-1 timeshift="2" xui-id="2484958" tvg-id="NickJr.uk" tvg-name="Nick Jr SD" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg" group-title="UK KIDS",Nick Jr SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPZfsB3NC5rGk6JtIFsGDK5
+#EXTINF:-1 timeshift="2" xui-id="2484969" tvg-id="NickJr+1.uk" tvg-name="Nick Jr +1" tvg-logo="https://www.lagovista.lib.tx.us/site-assets/images/Nick%20Jr.jpg/@@images/image.jpeg" group-title="UK KIDS",Nick Jr +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPudun36WfN-BfmLg101xaE
+#EXTINF:-1 timeshift="2" xui-id="2484977" tvg-id="NickJr.uk" tvg-name="Nick Jr FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGlHM4i6ohWuyx_XaYtCrSnqGtNe8rwacRw&usqp=CAU" group-title="UK KIDS",Nick Jr FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMuCB7Og5qI8J16q_x7Ii31
+#EXTINF:-1 timeshift="2" xui-id="2484957" tvg-id="" tvg-name="Nick Jr Too SD" tvg-logo="https://static.epg.best/uk/NickJrToo.uk.png" group-title="UK KIDS",Nick Jr Too SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPsI3uGqFpt5PFMLIGuXUtF
+#EXTINF:-1 timeshift="2" xui-id="2484959" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon SD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGw3Rf7RHVVPw/company-logo_200_200/0/1519855864342?e=2159024400&v=beta&t=4p8WeaUW20jbPi_Qe_UNs95yc5mxyORxqe9vzn_FFV0" group-title="UK KIDS",Nickelodeon SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOOnT7-AzdRtvVzoHfsvtbI
+#EXTINF:-1 timeshift="2" xui-id="2484970" tvg-id="Nickelodeon+1.uk" tvg-name="Nickelodeon +1" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Logo-Nickelodeon-1_v2.png" group-title="UK KIDS",Nickelodeon +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOGk83tzFrrzCtOk9gO1-Sa
+#EXTINF:-1 timeshift="2" xui-id="2484956" tvg-id="Nicktoons.uk" tvg-name="Nicktoons SD" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/340?cb=20190605183520" group-title="UK KIDS",Nicktoons SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNJlvTmhyPRBwPb_ZAa9GRv
+#EXTINF:-1 xui-id="2485173" tvg-id="" tvg-name="NOOR TV (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",NOOR TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJK4GAALdmGIFuCWyUCrwuDR
+#EXTINF:-1 timeshift="2" xui-id="2484990" tvg-id="NOW70s.uk" tvg-name="Now 70s" tvg-logo="https://static.epg.best/uk/Now70s.uk.png" group-title="UK MUSIC",Now 70s
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMVODWX3_zDdujN4d_0jZN3
+#EXTINF:-1 timeshift="2" xui-id="2484991" tvg-id="NOW80s.uk" tvg-name="Now 80s" tvg-logo="https://static.epg.best/uk/NOW80s.uk.png" group-title="UK MUSIC",Now 80s
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMw2eblJ37HtYMY3jtu5abm
+#EXTINF:-1 timeshift="2" xui-id="2484992" tvg-id="NOW90s.uk" tvg-name="Now 90s" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/now-90s-uk.png" group-title="UK ENTERTAINMENT",Now 90s
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOdsNKJ6XW5IwoE7sVXIfY3
+#EXTINF:-1 xui-id="2485195" tvg-id="" tvg-name="NTV (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",NTV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJVlaWprCtOVMrAbRbPQZF8
+#EXTINF:-1 timeshift="2" xui-id="2484274" tvg-id="PARNVMH" tvg-name="Paramount" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/paramount-network-uk.png" group-title="UK ENTERTAINMENT",Paramount
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE7P8c3jPUTPx-0WKAmlZKf
+#EXTINF:-1 timeshift="2" xui-id="2484376" tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/pbs-america-uk.png" group-title="UK DOCUMENTARIES",PBS America
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9I0XDIfYA58zsQ0VWHo1EU
+#EXTINF:-1 timeshift="2" xui-id="2571382" tvg-id="" tvg-name="PDC Darts (Live Events Only)" tvg-logo="https://www.pdc.tv/sites/default/files/cta_block_with_text/images/logo_white.png" group-title="UK SPORTS",PDC Darts (Live Events Only)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mvttuiAQuOmmXt4hA7CiecogSVAbaR6D4liakdK-94k
+#EXTINF:-1 timeshift="2" xui-id="2571383" tvg-id="" tvg-name="PDC Darts 2 (Live Events Only)" tvg-logo="https://www.pdc.tv/sites/default/files/cta_block_with_text/images/logo_white.png" group-title="UK SPORTS",PDC Darts 2 (Live Events Only)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0mvttuiAQuOmmXt4hA7CiecwXkX_5Fylosu-PdMo3bVz
+#EXTINF:-1 timeshift="2" xui-id="2484275" tvg-id="Pick.uk" tvg-name="Pick TV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/pick-uk.png" group-title="UK ENTERTAINMENT",Pick TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZF5_QJ_A9sq3h0H4dzJA6g_
+#EXTINF:-1 timeshift="2" xui-id="2484955" tvg-id="Pop.uk" tvg-name="Pop SD" tvg-logo="https://static.epg.best/uk/Pop.uk.png" group-title="UK KIDS",Pop SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmM9iuWLTtd6Da17H4ngnWhN
+#EXTINF:-1 timeshift="2" xui-id="2484971" tvg-id="Pop+1.uk" tvg-name="Pop +1" tvg-logo="https://static.epg.best/uk/Pop.uk.png" group-title="UK KIDS",Pop +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPoigkB4Ec_X25u7pjEhzgZ
+#EXTINF:-1 timeshift="2" xui-id="2484953" tvg-id="PopMax.uk" tvg-name="POP Max SD" tvg-logo="https://static.epg.best/uk/POPMax.uk.png" group-title="UK KIDS",POP Max SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMh5BVznPze7oL8iGFVKIvr
+#EXTINF:-1 timeshift="2" xui-id="2484972" tvg-id="PopMax+1.uk" tvg-name="POP Max +1" tvg-logo="https://static.epg.best/uk/POPMax.uk.png" group-title="UK KIDS",POP Max +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPVU68dRxvXDLqBP7k4g-P5
+#EXTINF:-1 timeshift="2" xui-id="2485132" tvg-id="PRMSPTV" tvg-name="Premier Sports 1 UK FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 1 UK FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJsJE1Hm4Vmw-9UrUyeAwhN
+#EXTINF:-1 timeshift="2" xui-id="2485119" tvg-id="PRMSHDV" tvg-name="Premier Sports 1 UK SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/premier-sports-1-uk.png" group-title="UK SPORTS",Premier Sports 1 UK SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJea2meSLsj6Dhq3ffQZDTu
+#EXTINF:-1 timeshift="2" xui-id="2485133" tvg-id="PRSP2UK" tvg-name="Premier Sports 2 UK FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 2 UK FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKunHhPwPGlyTJMf6H10sFP
+#EXTINF:-1 timeshift="2" xui-id="2485120" tvg-id="PRSP2UK" tvg-name="Premier Sports 2 UK SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 2 UK SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKx1jZZRh4eYJi_m2XWSC8c
+#EXTINF:-1 xui-id="2485177" tvg-id="" tvg-name="PTV GLOBAL (Pakistan)" tvg-logo="https://static.epg.best/pk/PTVGlobal.pk.png" group-title="UK INTERNATIONAL",PTV GLOBAL (Pakistan)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJLy3j528YswudxGFTYY3Sam
+#EXTINF:-1 timeshift="2" xui-id="2484276" tvg-id="Quest.uk" tvg-name="Quest" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-uk.png" group-title="UK ENTERTAINMENT",Quest
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGsIsiyW6QJZJr0ln_J1U7k
+#EXTINF:-1 timeshift="2" xui-id="2484327" tvg-id="Quest+1.uk" tvg-name="Quest +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-plus-uk.png" group-title="UK ENTERTAINMENT",Quest +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9ngBkDu6a0DG7KTOua2nK0
+#EXTINF:-1 timeshift="2" xui-id="2484348" tvg-id="Quest.uk" tvg-name="Quest HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-uk.png" group-title="UK ENTERTAINMENT",Quest HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9rDFyKn3ubomlDxP_sZfe1
+#EXTINF:-1 timeshift="2" xui-id="2484277" tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-red-uk.png" group-title="UK ENTERTAINMENT",Quest Red
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZF4w9J7alwKXiLJvKx1p_u1
+#EXTINF:-1 timeshift="2" xui-id="2484328" tvg-id="QuestRed+1.uk" tvg-name="Quest Red +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-red-plus-uk.png" group-title="UK ENTERTAINMENT",Quest Red +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8TIbEv5OTopgfNkVSrrmte
+#EXTINF:-1 timeshift="2" xui-id="2484294" tvg-id="QVC.uk" tvg-name="QVC" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-uk.png" group-title="UK ENTERTAINMENT",QVC
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGhw_eNByGQuf1oDsWcON16
+#EXTINF:-1 timeshift="2" xui-id="2484295" tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" tvg-logo="https://static.epg.best/uk/QVCBeauty.uk.png" group-title="UK ENTERTAINMENT",QVC Beauty
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGQjueJN9207pMXox7OfSEj
+#EXTINF:-1 timeshift="2" xui-id="2484296" tvg-id="QVCExtra.uk" tvg-name="QVC Extra" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-extra-uk.png" group-title="UK ENTERTAINMENT",QVC Extra
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFj-IlvsNqOoPpTbW3_YZNJ
+#EXTINF:-1 timeshift="2" xui-id="2484297" tvg-id="QVCStyle.uk" tvg-name="QVC Style" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-style-uk.png" group-title="UK ENTERTAINMENT",QVC Style
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGaXfFiNrgGd3YeKgOj36Hz
+#EXTINF:-1 timeshift="2" xui-id="2485134" tvg-id="RacingTV.uk" tvg-name="Racing UK HD" tvg-logo="https://static.epg.best/uk/RacingUK.uk.png" group-title="UK SPORTS",Racing UK HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKjszlH8EDRSflujbFMluBw
+#EXTINF:-1 timeshift="2" xui-id="2484278" tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/really-uk.png" group-title="UK ENTERTAINMENT",Really
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHMkE6lU0d7jEYZTrJUv090
+#EXTINF:-1 xui-id="2485153" tvg-id="" tvg-name="Republic Bahrat (Indian)" tvg-logo="https://static.epg.best/in/REPUBLICTV.in.png" group-title="UK INTERNATIONAL",Republic Bahrat (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJumbP6q3qDUHnEmnSfWfG9
+#EXTINF:-1 timeshift="2" xui-id="2484279" tvg-id="ROK.uk" tvg-name="Rok TV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/rok-uk.png" group-title="UK ENTERTAINMENT",Rok TV
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHw00nhC4jf-2azKEjMBi7c
+#EXTINF:-1 timeshift="2" xui-id="2484288" tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/s4c-uk.png" group-title="UK ENTERTAINMENT",S4C
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEZlLw2R0hd1SyM4mU5v6DB
+#EXTINF:-1 xui-id="2485156" tvg-id="" tvg-name="SAB TV (Indian)" tvg-logo="https://static.epg.best/in/SAITV.in.png" group-title="UK INTERNATIONAL",SAB TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKlofaRGhESC3KJlc3YpjWn
+#EXTINF:-1 xui-id="2485170" tvg-id="" tvg-name="Samaa" tvg-logo="https://static.epg.best/pk/SamaaTV.pk.png" group-title="UK INTERNATIONAL",Samaa
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJv-HKSDB5WSbNL7qEr5RWw
+#EXTINF:-1 xui-id="2485161" tvg-id="" tvg-name="Sangat (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",Sangat (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIVovz12T7fFCCHfEa1QraT
+#EXTINF:-1 xui-id="2485151" tvg-id="" tvg-name="Sanskar (indian)" tvg-logo="https://static.epg.best/in/SanskarTV.in.png" group-title="UK INTERNATIONAL",Sanskar (indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJL9o2624wOc5Y2_OziPPqNl
+#EXTINF:-1 timeshift="2" xui-id="2484270" tvg-id="" tvg-name="Showcase" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/showcase-uk.png" group-title="UK ENTERTAINMENT",Showcase
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHpPDcCwbju-13qBHqABnP1
+#EXTINF:-1 xui-id="2485162" tvg-id="" tvg-name="Sikh Channel (Indian)" tvg-logo="https://static.epg.best/in/DesiChannel.in.png" group-title="UK INTERNATIONAL",Sikh Channel (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKt9lV9t6nkvRHQTd9Aimty
+#EXTINF:-1 timeshift="2" xui-id="2484903" tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Animation FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="UK MOVIES",Sky Animation FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO4Rt0x5MeI8YugtyHeoMdx
+#EXTINF:-1 timeshift="2" xui-id="2485111" tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="UK MOVIES",Sky Cinema Animation HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIjDwYsjeLeu-rvobKeBwap
+#EXTINF:-1 timeshift="2" xui-id="2484351" tvg-id="SkyArts.uk" tvg-name="Sky Arts FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="UK ENTERTAINMENT",Sky Arts FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-AhhylMaPogokcLCD0xqqj
+#EXTINF:-1 timeshift="2" xui-id="2484280" tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="UK ENTERTAINMENT",Sky Arts HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFKjoYqwRYlmnofJDPQaKG8
+#EXTINF:-1 timeshift="2" xui-id="2484352" tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-atlantic-uk.png" group-title="UK ENTERTAINMENT",Sky Atlantic HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8WCMajfQ01ryN1ciet2d3a
+#EXTINF:-1 timeshift="2" xui-id="2484928" tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-action-uk.png" group-title="UK MOVIES",Sky Cinema Action FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNaFJF7pDB-DXG-tg3HRIA0
+#EXTINF:-1 timeshift="2" xui-id="2484910" tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-action-uk.png" group-title="UK MOVIES",Sky Cinema Action HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOHfY9-uaqCiezFVi8Pr9gA
+#EXTINF:-1 timeshift="2" xui-id="2484929" tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="UK MOVIES",Sky Cinema Comedy FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPSYmg6p1pefhTuF4Hi2rKG
+#EXTINF:-1 timeshift="2" xui-id="2484904" tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="UK MOVIES",Sky Cinema Comedy HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmON0rnuvPBuhAqXk1DU6cPZ
+#EXTINF:-1 timeshift="2" xui-id="2484911" tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="UK MOVIES",Sky Cinema Comedy HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPiMZID8QV1kswlxvCWIBas
+#EXTINF:-1 timeshift="2" xui-id="2484931" tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="UK MOVIES",Sky Cinema Drama FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNWzG1GfVqbq6pOHo8RGBWy
+#EXTINF:-1 timeshift="2" xui-id="2484913" tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="UK MOVIES",Sky Cinema Drama HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPcrmUX0do_TxRj0L6-10JY
+#EXTINF:-1 timeshift="2" xui-id="2484927" tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-family-uk.png" group-title="UK MOVIES",Sky Cinema Family FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMOOY2IUSvoEwfz_kR0m4ws
+#EXTINF:-1 timeshift="2" xui-id="2484909" tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-family-uk.png" group-title="UK MOVIES",Sky Cinema Family HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOoIs8kdOdwISAcgCs7gaKQ
+#EXTINF:-1 timeshift="2" xui-id="2484925" tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="UK MOVIES",Sky Cinema Greats FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPBcWLm8sZaMWB-oHld4Jeq
+#EXTINF:-1 timeshift="2" xui-id="2484907" tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="UK MOVIES",Sky Cinema Greats HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNM2m6fT0y-wMXj2-_abqOx
+#EXTINF:-1 timeshift="2" xui-id="2484924" tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="UK MOVIES",Sky Cinema Hits FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNG-aLzSKm5Pk2h8tEf3RR7
+#EXTINF:-1 timeshift="2" xui-id="2484906" tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="UK MOVIES",Sky Cinema Hits HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO4cQ9V98UImOYVCVoNVPYQ
+#EXTINF:-1 timeshift="2" xui-id="2484923" tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="UK MOVIES",Sky Cinema Premiere FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNpCWYPnaFInWbFU7w579ow
+#EXTINF:-1 timeshift="2" xui-id="2484905" tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="UK MOVIES",Sky Cinema Premiere HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmN9mj6Yb5sng9sPx6ydFUPD
+#EXTINF:-1 timeshift="2" xui-id="2484932" tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema SciFi  Horror FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="UK MOVIES",Sky Cinema SciFi  Horror FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMrh3mY7Lyq0TEI-ZyMVmuK
+#EXTINF:-1 timeshift="2" xui-id="2484914" tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema SciFi Horror HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="UK MOVIES",Sky Cinema SciFi Horror HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOrNNHLO5R4ede7bq3JTvf6
+#EXTINF:-1 timeshift="2" xui-id="2484933" tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Select FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-select-uk.png" group-title="UK MOVIES",Sky Cinema Select FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPyXK6m9Y1ucrGI7Podg-CH
+#EXTINF:-1 timeshift="2" xui-id="2484915" tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-select-uk.png" group-title="UK MOVIES",Sky Cinema Select HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOF-VLIzmzwUqFPUaiQ4bpj
+#EXTINF:-1 timeshift="2" xui-id="2484930" tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="UK MOVIES",Sky Cinema Thriller FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPEAw1MUSKwSX9OAMn8okxn
+#EXTINF:-1 timeshift="2" xui-id="2484912" tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="UK MOVIES",Sky Cinema Thriller HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmP9qSTL2-wYu4sWelwtuhHc
+#EXTINF:-1 timeshift="2" xui-id="2484282" tvg-id="SkyComedy.uk" tvg-name="Sky Comedy FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-comedy-uk.png" group-title="UK ENTERTAINMENT",Sky Comedy FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZGmeYIfviH3VuUvtpKxzzZS
+#EXTINF:-1 timeshift="2" xui-id="2484354" tvg-id="SkyCrime.uk" tvg-name="Sky Crime FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-crime-uk.png" group-title="UK DOCUMENTARIES",Sky Crime FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9lmsl_D4W4-xHa48DYZunm
+#EXTINF:-1 timeshift="2" xui-id="2484283" tvg-id="SkyCrime.uk" tvg-name="Sky Crime FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-crime-uk.png" group-title="UK DOCUMENTARIES",Sky Crime FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEaOPJVICMYsdBV2aZcrwxZ
+#EXTINF:-1 timeshift="2" xui-id="2484392" tvg-id="SkyDocumentaries.uk" tvg-name="Sky Documentaries FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-documentaries-uk.png" group-title="UK DOCUMENTARIES",Sky Documentaries FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9lb1Bi997Z8uYOP5TrMZuf
+#EXTINF:-1 timeshift="2" xui-id="2484393" tvg-id="SkyHistory2.uk" tvg-name="Sky History 2 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-history-2-light-uk.png" group-title="UK DOCUMENTARIES",Sky History 2 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO908mQb-x06_pHHqBQOGE3J
+#EXTINF:-1 timeshift="2" xui-id="2484394" tvg-id="SkyHistory.uk" tvg-name="Sky History FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-history-2-light-uk.png" group-title="UK DOCUMENTARIES",Sky History FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8jpMM7yp4OpSH4xdQ19t0_
+#EXTINF:-1 timeshift="2" xui-id="2484395" tvg-id="SkyNature.uk" tvg-name="Sky Nature FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-nature-uk.png" group-title="UK DOCUMENTARIES",Sky Nature FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-94H4ZaM4gHkos_1S21Gbq
+#EXTINF:-1 timeshift="2" xui-id="2484950" tvg-id="SkyNews.uk" tvg-name="Sky News FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-news-icon-uk.png" group-title="UK NEWS",Sky News FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOqT-w4b-WTcWpqz158HUHU
+#EXTINF:-1 timeshift="2" xui-id="2484946" tvg-id="SkyNews.uk" tvg-name="Sky News HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-news-icon-uk.png" group-title="UK NEWS",Sky News HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPwPFLOzLdog5Prcvkgt8Qy
+#EXTINF:-1 timeshift="2" xui-id="2484355" tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-showcase-icon-uk.png" group-title="UK ENTERTAINMENT",Sky Showcase FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9kCaYbxw5KmIBfBTVOhh0j
+#EXTINF:-1 timeshift="2" xui-id="2485230" tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Action FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4kPy29zNZDxr_lBANN6yFV
+#EXTINF:-1 timeshift="2" xui-id="2485211" tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Action HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT7Ddo-ZycQxepauGIwjSArW
+#EXTINF:-1 timeshift="2" xui-id="2485231" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-arena-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Arena FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6rWjBGrzYjnqIe0BLwsNc-
+#EXTINF:-1 timeshift="2" xui-id="2485212" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-arena-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Arena HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6Eyzo1EKC_M9ebPhx8_dJT
+#EXTINF:-1 timeshift="2" xui-id="2484998" tvg-id="" tvg-name="Sky Sports Box Office FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-box-office-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Box Office FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNrPfvyijOt8DVI_AOxJC-V
+#EXTINF:-1 timeshift="2" xui-id="2484999" tvg-id="" tvg-name="Sky Sports Box Office HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-box-office-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Box Office HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmNo4p-sZMa18Vfb2icjLTPi
+#EXTINF:-1 timeshift="2" xui-id="2485226" tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Cricket FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT7qiLYsCopqtnI73Tp66xD8
+#EXTINF:-1 timeshift="2" xui-id="2485213" tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Cricket HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4pkvjIOvfguRmYED1ShfY7
+#EXTINF:-1 timeshift="2" xui-id="2485229" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports F1 FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5qch_VEOu2ynogg-FJlldD
+#EXTINF:-1 timeshift="2" xui-id="2485214" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports F1 HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5YSbMQLYjI7W0D4TXMrxcD
+#EXTINF:-1 timeshift="2" xui-id="2485225" tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Football FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6ix9QEwkaAGK6ea0jYmi7I
+#EXTINF:-1 timeshift="2" xui-id="2536189" tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Football HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0i-98t5QH9ljikKT9PUF0ydnKVqNjzx4XlgBu2RBgKyC
+#EXTINF:-1 timeshift="2" xui-id="2485227" tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Golf FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6h78JEbgT0dQNcBVbxWY1K
+#EXTINF:-1 timeshift="2" xui-id="2485216" tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Golf HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT7eLZU5hQPSMv6SW422_JUk
+#EXTINF:-1 timeshift="2" xui-id="2485223" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="UK SKY SPORTS",Sky Sports Main Event FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5IbevdnRsNhPh0XHxXJEPa
+#EXTINF:-1 timeshift="2" xui-id="2599386" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="UK SKY SPORTS",Sky Sports Main Event HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0oxRcn4axCq9rnYHzZt34r5IVIQWNZU449m-W87OAnjG
+#EXTINF:-1 timeshift="2" xui-id="2485232" tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Mix FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4OEi1qtBw46UNCNjDDbJbV
+#EXTINF:-1 timeshift="2" xui-id="2485218" tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Mix HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT44AFCZAXOTY7cUVqiWbI-t
+#EXTINF:-1 timeshift="2" xui-id="2485222" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports News FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4nTk3sd9KybdoeG1DtyCme
+#EXTINF:-1 timeshift="2" xui-id="2485219" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports News HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT4HLo5Ysudq8XgQIXqupl--
+#EXTINF:-1 timeshift="2" xui-id="2485224" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Premier League FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT6aDHZE8ZJGWXu8IeZIE8-C
+#EXTINF:-1 timeshift="2" xui-id="2485220" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Premier League HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5Xkq-jVAV6ftyHRLQrJSrf
+#EXTINF:-1 timeshift="2" xui-id="2485228" tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Racing FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT5e16xGm69EM2yDuhABpa85
+#EXTINF:-1 timeshift="2" xui-id="2485221" tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="UK SKY SPORTS",Sky Sports Racing HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT72TVI3XlLwoFeZjGzSWMdF
+#EXTINF:-1 timeshift="2" xui-id="2484356" tvg-id="SkyWitness.uk" tvg-name="Sky Witness FHD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-witness-uk.png" group-title="UK ENTERTAINMENT",Sky Witness FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_qIPl5_Kcs7d5qoNgY-dTK
+#EXTINF:-1 timeshift="2" xui-id="2484285" tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-witness-uk.png" group-title="UK ENTERTAINMENT",Sky Witness HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZFKxHS1eOR5O02loYo5Koug
+#EXTINF:-1 xui-id="2484899" tvg-id="" tvg-name="Sony Action" tvg-logo="https://static.epg.best/in/SonyAATH.in.png" group-title="UK INTERNATIONAL",Sony Action
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0t6gcmqatxretCCxWRbapotJK6P7sFUye-oyR2gz7Hp2
+#EXTINF:-1 timeshift="2" xui-id="2484918" tvg-id="" tvg-name="Sony Action +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sony-movies-action-plus-uk.png" group-title="UK ENTERTAINMENT",Sony Action +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmOxOrlzkS4YGA2EFbBOXM6b
+#EXTINF:-1 xui-id="2484287" tvg-id="" tvg-name="Sony Channel" tvg-logo="" group-title="UK INTERNATIONAL",Sony Channel
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZG7OHzXSSj5mknhzy_yXedJ
+#EXTINF:-1 xui-id="2485148" tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="UK INTERNATIONAL",Sony Max
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKV4drp8YJpxlfHSYd4RNtB
+#EXTINF:-1 xui-id="2485184" tvg-id="" tvg-name="SONY MAX 2 (Indian)" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="UK INTERNATIONAL",SONY MAX 2 (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIrD8PzR_LgzZZXVYYRVayu
+#EXTINF:-1 xui-id="2485197" tvg-id="" tvg-name="SONY Max HD (Indian)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="UK INTERNATIONAL",SONY Max HD (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJqoquIzqKubRY-I2poSZpo
+#EXTINF:-1 timeshift="2" xui-id="2484271" tvg-id="BBCOneLondon.uk" tvg-name="Spotlight" tvg-logo="https://static.epg.best/lt/Sport1.lt.png" group-title="UK MUSIC",Spotlight
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHMFzHAW6ZVr6YVzSqB5PiD
+#EXTINF:-1 xui-id="2485188" tvg-id="" tvg-name="STAR BHARAT (Indian)" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="UK INTERNATIONAL",STAR BHARAT (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJI-G5-xwyhznBFtxh3mykx_
+#EXTINF:-1 xui-id="2485185" tvg-id="" tvg-name="STAR GOLD (Indian)" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="UK INTERNATIONAL",STAR GOLD (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKbXa02I8tj22piVS6Evxgf
+#EXTINF:-1 xui-id="2455956" tvg-id="" tvg-name="STV East" tvg-logo="https://static.epg.best/nl/TVWest.nl.png" group-title="UK REGIONALS",STV East
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSscX4zC_q1wM0uM9qWcbYy
+#EXTINF:-1 xui-id="2455558" tvg-id="" tvg-name="STV East SD" tvg-logo="" group-title="UK REGIONALS",STV East SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0q0u-wGXq7UotTqYJjFuCmSH4JylASZj5r_nM1fMSMBg
+#EXTINF:-1 timeshift="2" xui-id="2484289" tvg-id="STV.uk" tvg-name="STV HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/stv-uk.png" group-title="UK ENTERTAINMENT",STV HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHuJayF7tA4aC0kjKK63HmO
+#EXTINF:-1 xui-id="2455957" tvg-id="STVNorth.uk" tvg-name="STV North" tvg-logo="https://static.epg.best/th/History2.th.png" group-title="UK REGIONALS",STV North
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRu2sA6m0sLd1XPYYHt81UI
+#EXTINF:-1 xui-id="2455559" tvg-id="STVNorth.uk" tvg-name="STV North SD" tvg-logo="" group-title="UK REGIONALS",STV North SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0q0u-wGXq7UotTqYJjFuCmQuS1o2WOurNY_3Ffd29af_
+#EXTINF:-1 xui-id="2455958" tvg-id="" tvg-name="STV Tayside" tvg-logo="https://static.epg.best/si/TVIstra.si.png" group-title="UK REGIONALS",STV Tayside
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvRvzODkT148Kb-RmsUQLv7w
+#EXTINF:-1 xui-id="2455560" tvg-id="" tvg-name="STV Tayside SD" tvg-logo="" group-title="UK REGIONALS",STV Tayside SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0q0u-wGXq7UotTqYJjFuCmTXQIjj3l6gRo8DX54WhsFa
+#EXTINF:-1 xui-id="2455959" tvg-id="" tvg-name="STV West" tvg-logo="https://static.epg.best/nl/TVWest.nl.png" group-title="UK REGIONALS",STV West
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0tQ5EocT-1FWWRXnvCdbsvSJgUzNTUob6xAyEF-Kb69k
+#EXTINF:-1 xui-id="2455561" tvg-id="" tvg-name="STV West SD" tvg-logo="" group-title="UK REGIONALS",STV West SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0q0u-wGXq7UotTqYJjFuCmQuRBuSdYx16rlT71V1vnjC
+#EXTINF:-1 timeshift="2" xui-id="2484358" tvg-id="" tvg-name="SyFy HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/syfy-uk.png" group-title="UK ENTERTAINMENT",SyFy HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9x7ZFaWjD3f16WKVhfJqzN
+#EXTINF:-1 xui-id="2485169" tvg-id="" tvg-name="Tak Beer (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",Tak Beer (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJJWoTAWQWYUl0CIu1JIFJxS
+#EXTINF:-1 xui-id="2484900" tvg-id="" tvg-name="TalkingPictures" tvg-logo="https://static.epg.best/uk/TalkingPictures.uk.png" group-title="UK INTERNATIONAL",TalkingPictures
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPD_2Re43flVcGYYsq6HbRr
+#EXTINF:-1 timeshift="2" xui-id="2484396" tvg-id="TCMMovies.uk" tvg-name="TCM" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tcm-movies-uk.png" group-title="UK ENTERTAINMENT",TCM
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9R6AGCEWK9EpefvFFAnxLq
+#EXTINF:-1 timeshift="2" xui-id="2484921" tvg-id="TCMMovies+1.uk" tvg-name="TCM +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tcm-movies-plus-uk.png" group-title="UK ENTERTAINMENT",TCM +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPb7QY_cT7kzqWYo3QRLG3h
+#EXTINF:-1 timeshift="2" xui-id="2484995" tvg-id="TheBox.uk" tvg-name="The Box" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/the-box-uk.png" group-title="UK ENTERTAINMENT",The Box
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmM7s6IxCxfH8lWYf-WR0CW7
+#EXTINF:-1 timeshift="2" xui-id="2484954" tvg-id="TinyPop.uk" tvg-name="Tiny Pop SD" tvg-logo="https://static.epg.best/uk/Tinypop.uk.png" group-title="UK KIDS",Tiny Pop SD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPpr1EI_P-SPvK15QO3djmN
+#EXTINF:-1 timeshift="2" xui-id="2484973" tvg-id="TinyPop+1.uk" tvg-name="Tiny Pop +1" tvg-logo="https://static.epg.best/uk/Tinypop.uk.png" group-title="UK KIDS",Tiny Pop +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmPYBXSGJM-GK_fNHDERTdTo
+#EXTINF:-1 timeshift="2" xui-id="2484291" tvg-id="TLC.uk" tvg-name="TLC" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tlc-uk.png" group-title="UK ENTERTAINMENT",TLC
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZEadkpchFZ6roaLI93hub55
+#EXTINF:-1 timeshift="2" xui-id="2484332" tvg-id="TLC+1.uk" tvg-name="TLC +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tlc-plus-uk.png" group-title="UK ENTERTAINMENT",TLC +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-DFXsSQGkp9vOAr8AE2u5q
+#EXTINF:-1 timeshift="2" xui-id="2484360" tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tlc-uk.png" group-title="UK ENTERTAINMENT",TLC HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO8AIPf2po-Iwi70d2KZgQL0
+#EXTINF:-1 timeshift="2" xui-id="2484292" tvg-id="TogetherTV.uk" tvg-name="Together" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/together-tv-uk.png" group-title="UK DOCUMENTARIES",Together
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZHB-LGPobWIgIzISgJKqbcj
+#EXTINF:-1 timeshift="2" xui-id="2487186" tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="UK MUSIC",Trace Urban
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0pOqXzWj2BNp6JKKPE6oO0AfG4uo-yEliFi1h2S2kcCp
+#EXTINF:-1 timeshift="2" xui-id="2484994" tvg-id="TraceVault.uk" tvg-name="Trace Vault" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/11/TRACE-VAULT.png" group-title="UK MUSIC",Trace Vault
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmMlCso67TTJNgRpXvikriZN
+#EXTINF:-1 timeshift="2" xui-id="2484377" tvg-id="Travelxp.uk" tvg-name="TravelXP" tvg-logo="" group-title="UK ENTERTAINMENT",TravelXP
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO9m-XMQzhNr2dKTmroaUonI
+#EXTINF:-1 timeshift="2" xui-id="2484948" tvg-id="TRTWorld.uk" tvg-name="TRT World HD" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" group-title="UK ENTERTAINMENT",TRT World HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0lRxzYypuWRRyC2y6wDPsmO3imr1jO6io2HfjxJlBHSo
+#EXTINF:-1 xui-id="2485159" tvg-id="" tvg-name="TV ONE (Pakistan)" tvg-logo="https://static.epg.best/pk/TVOne.pk.png" group-title="UK INTERNATIONAL",TV ONE (Pakistan)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJKdRPYX9moi2ac3c7zZorIj
+#EXTINF:-1 timeshift="2" xui-id="2485210" tvg-id="TVWarehouse.uk" tvg-name="Tv Warehouse" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/tv-warehouse-uk.png" group-title="UK ENTERTAINMENT",Tv Warehouse
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0m4a0AQ-h_qHVv076yh2PT43HdhMH6LB47YZjwUHl4IZ
+#EXTINF:-1 timeshift="2" xui-id="3337517" tvg-id="TalkTV.uk" tvg-name="UK: Talk TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s99024_ll_h3_ab.png" group-title="UK NEWS",UK: Talk TV FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0p3XDDvFdyjX2dLBnZGnrE3fBwyF5SRk9AfnJlmDkg3W
+#EXTINF:-1 xui-id="2485186" tvg-id="" tvg-name="Venus TV (Indian)" tvg-logo="" group-title="UK INTERNATIONAL",Venus TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJK0AemyQGhVFlygplGJCLLu
+#EXTINF:-1 timeshift="2" xui-id="2484293" tvg-id="" tvg-name="Watch" tvg-logo="https://static.epg.best/th/Warner.th.png" group-title="UK ENTERTAINMENT",Watch
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jPan7aLE9JGXc2LJdJZTZE6QFLudlVN206xJ-KSyw5J
+#EXTINF:-1 timeshift="2" xui-id="2484364" tvg-id="" tvg-name="Watch HD" tvg-logo="https://static.epg.best/th/Warner.th.png" group-title="UK ENTERTAINMENT",Watch HD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO_CKhgj59P05pK5wi9Wbtnn
+#EXTINF:-1 timeshift="2" xui-id="2484378" tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/yesterday-uk.png" group-title="UK DOCUMENTARIES",Yesterday
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0jzK-LljH9tiQoQozFW5UO-DSiZS_0WE3J_0YLKbRDg8
+#EXTINF:-1 timeshift="2" xui-id="2485369" tvg-id="Yesterday+1.uk" tvg-name="Yesterday +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/yesterday-plus-uk.png" group-title="UK DOCUMENTARIES",Yesterday +1
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0nLHLc9AgEpbes_JnMWUdetKRptxGfy-QZehcGipwg-3
+#EXTINF:-1 xui-id="2485158" tvg-id="" tvg-name="ZEE TV (Indian)" tvg-logo="https://static.epg.best/in/ZeeTV.in.png" group-title="UK INTERNATIONAL",ZEE TV (Indian)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0swlWq3EpoHzV7TKFy7uUJIZkbdv6FbOyIKF631pJ32u
+#EXTINF:-1 xui-id="3396864" tvg-id="SkyMax.uk" tvg-name="UK: Sky Max FHD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b3/Sky_Max_%28Keromania%29_%282017%29.png/revision/latest/scale-to-width-down/405?cb=20220508033023" group-title="UK ENTERTAINMENT",UK: Sky Max FHD
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0kX6CSeb5QTNrlG1o2LNljWATY_N0YhdC23p0xwmfWnK
+#EXTINF:-1 xui-id="3151584" tvg-id="SmithsonianChannelSelects.pluto" tvg-name="Pluto: Smithsonian Channel Selects" tvg-logo="" group-title="PLUTO TV",Pluto: Smithsonian Channel Selects
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0rXHJWQ845h-TLYk_0jGzVodQB9hJNXe38oZoC-U4w6F
+#EXTINF:-1 timeshift="2" xui-id="1549663" tvg-id="" tvg-name="CA: Smithsonian" tvg-logo="http://epg.blackouttv.cx/logo/countries/canada/smithsonian-channel-ca.png" group-title="CANADA",CA: Smithsonian
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0pZrY1_2xshKNJdZhviz6_3GVzww2NtQKhg8Q54xnk6N
+#EXTINF:-1 timeshift="2" xui-id="3087165" tvg-id="SmithsonianNetwork.us" tvg-name="USA: Smithsonian Channel (East)" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="USA DOCUMENTARIES",USA: Smithsonian Channel (East)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0o86sRSJ3WzbRvESnHwlF5Y7Pn6iHN-1Lpiz009sXJ6L
+#EXTINF:-1 timeshift="2" xui-id="3337096" tvg-id="SmithsonianChannelPacific.us" tvg-name="USA: Smithsonian Channel (West)" tvg-logo="http://fanc.tmsimg.com/assets/s58532_ll_h3_aa.png" group-title="USA DOCUMENTARIES",USA: Smithsonian Channel (West)
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0sPSBKxFVjmKop_6_45qy4Duho5yMW-kZG5j4G22Qug5
+#EXTINF:-1 xui-id="3151360" tvg-id="" tvg-name="AR: Smithsonian Channel" tvg-logo="http://fanc.tmsimg.com/assets/s108211_ll_h3_aa.png" group-title="ARGENTINA",AR: Smithsonian Channel
+http://watch.breakingcabletv.com:80/play/oxpGil3MmFlDmtHG9tBp0iA6hZPNKyiVG8MxwaBV53VEpwDcyGjdTekP9VkQNvnx
